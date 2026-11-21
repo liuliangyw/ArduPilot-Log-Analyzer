@@ -2,6 +2,10 @@ V1.2更新内容
 
 - 修复了一些bug，调参助手增加了PID调整建议以及配平建议。在分析界面增加了部分数据图，俯仰的调整也放宽了一些
 
+- 
+<img width="1189" height="1060" alt="image" src="https://github.com/user-attachments/assets/fbffe24d-a1cd-4500-a20c-2a754ba69bf3" />
+
+
 
 V1.1更新内容：
 - 1.对更多的事件进行了汉化处理 
